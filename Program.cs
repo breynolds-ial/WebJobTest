@@ -10,9 +10,10 @@ namespace WebJobTest
     {
         static void Main(string[] args)
         {
+            DateTime Start = DateTime.Now;
             while (true)
             {
-                Console.WriteLine($"Hello World! It is {DateTime.Now}");
+                Console.WriteLine($@"Hello World! It is {DateTime.Now}. I have been running for {(DateTime.Now-Start):hh\hmm\mss\s}");
                 System.Threading.Thread.Sleep(10000);
             }
         }

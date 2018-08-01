@@ -1,0 +1,6 @@
+C:\Users\breynolds\Source\Repos\WebJobTest\bin\Release\WebJobTest.exe.config
+C:\Users\breynolds\Source\Repos\WebJobTest\bin\Release\WebJobTest.exe
+C:\Users\breynolds\Source\Repos\WebJobTest\bin\Release\WebJobTest.pdb
+C:\Users\breynolds\Source\Repos\WebJobTest\obj\Release\WebJobTest.csprojResolveAssemblyReference.cache
+C:\Users\breynolds\Source\Repos\WebJobTest\obj\Release\WebJobTest.exe
+C:\Users\breynolds\Source\Repos\WebJobTest\obj\Release\WebJobTest.pdb
